@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [studentManagementSystem](https://github.com/Sathiskumarssf/School-management.git)
 
-- 🌱 I’m currently learning **Tailwind CSS**
+<! -- - 🌱 I’m currently learning **Tailwind CSS** -->
 
 - 🔭 I’m currently working on [forShopaholic- an ecommerce website](https://github.com/Ragapiriya/ForShopaholic.git)
 
