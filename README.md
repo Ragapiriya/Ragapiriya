@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ragapiriya</h1>
+<h1 align="center">Hi 👋, I'm Ragapiriya Rameshkumar</h1>
 <h3 align="center">An aspiring Full Stack developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
-- 🔭 I’m currently working on [studentManagementSystem](https://github.com/Sathiskumarssf/School-management.git)
 
 - 🔭 I’m currently working on [forShopaholic- an e-commerce website](https://github.com/Ragapiriya/ForShopaholic.git)
 
@@ -12,7 +11,7 @@
 
 - 💬 Ask me about **MERN stack, especially in ReactJS.**
 
-- 📫 How to reach me **rpriyasmail@gmail.com**
+- 📫 How to reach me : **rpriyasmail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
