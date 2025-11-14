@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [forShopaholic- an e-commerce website](https://github.com/Ragapiriya/ForShopaholic.git)
 
-- 👨‍💻 All of my projects are available at [https://ragapiriya.github.io/Portfolio/](https://ragapiriya.github.io/Portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://ragapiriya.github.io/Portfolio/](https://ragapiriya.github.io/Portfolio/) -->
 
 - 💬 Ask me about **MERN stack, especially in ReactJS.**
 
